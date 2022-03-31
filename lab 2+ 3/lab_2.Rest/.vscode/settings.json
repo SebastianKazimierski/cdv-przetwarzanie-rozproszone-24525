@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/39426ab9-744b-43b9-bec8-4cd99ecf02a3/resourceGroups/Cdv/providers/Microsoft.Web/sites/sebastiankazimierski",
+    "appService.deploySubpath": "publish"
+}
